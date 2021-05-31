@@ -173,7 +173,7 @@ under the License.
 		<id>nexus</id>
 		<mirrorOf>*</mirrorOf>
 		<name>Yili Maven Repo</name>
-		<url>http://106.55.26.14:8081/repository/maven-public/</url>
+		<url>http://111.230.198.157:8081/repository/host/</url>
 	</mirror>
 	
 	<!--
@@ -276,7 +276,7 @@ under the License.
 		<repository>
 			<id>nexus</id>
 			<name>Nexus yili</name>
-			<url>http://106.55.26.14:8081/repository/maven-public/c</url>
+			<url>http://111.230.198.157:8081/repository/host/</url>
 			<releases>
 				<enabled>true</enabled>
 			</releases>
